@@ -7,5 +7,6 @@ namespace test_vs
 {
     public class Class1
     {
+        //this is what you call a comment
     }
 }
